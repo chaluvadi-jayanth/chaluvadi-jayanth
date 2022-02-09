@@ -28,6 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaluvadi-jayanth&show_icons=true&locale=en" alt="chaluvadi-jayanth" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaluvadi-jayanth&" alt="chaluvadi-jayanth" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaluvadi-jayanth&" alt="chaluvadi-jayanth" /></p> -->
 
 
