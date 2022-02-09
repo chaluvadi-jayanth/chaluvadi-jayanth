@@ -23,8 +23,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaluvadi-jayanth&label=Profile%20views&color=blue&style=flat" alt="chaluvadi-jayanth" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaluvadi-jayanth&show_icons=true&locale=en&layout=compact" alt="chaluvadi-jayanth" /></p>
-<br><br>
-&nbsp
+<p align="left"></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaluvadi-jayanth&show_icons=true&locale=en&theme=flag-india" alt="chaluvadi-jayanth" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaluvadi-jayanth&" alt="chaluvadi-jayanth" /></p> -->
