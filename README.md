@@ -1,12 +1,15 @@
 ![MasterHead](https://image.freepik.com/free-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1000)
 
 
-<h1 align="center">Hi 👋, I'm JAYANTH 🪴</h1>
+<h1 align="center">Hi 
+<!--  👋, -->
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+ , I'm JAYANTH 🪴</h1>
 <!-- <h3 align="center">Frontend developer from India 🇮🇳</h3> -->
 <h3 align="center">🏍️ Frontend Developer in the Fintech Fast Lane 🇮🇳</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" style="display: inline-block;" data-target="animated-image.originalImage" width="400">
 
 
 - 🔭 I’m currently working on **Business Payment Ecosystem**
